@@ -12,3 +12,5 @@ The project runs over ubuntu 16.04.
 * After installing the prerequests, add the project's code files to "/crazyflie_ws/src/crazyflie_demo/scripts/".
 * To run the system using 2 drones, run "start_crazyflie_RS_two.sh", and then run "test_high_level_two_RS.py"
 * To run the system using 1 drone, run "start_crazyflie_RS_stick.sh", and then run "test_high_level_stick_RS.py"
+
+# Note: There a sample video of the project in /Project_Docs.
